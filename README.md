@@ -9,10 +9,7 @@ This report presents the results of applying the K-Means clustering algorithm to
 
 ### K-Means Implementation  
 - The K-Means algorithm was applied with k = 2 and k = 3.  
-
-![Before Clustering]("C:\Users\basak\OneDrive\KIIT-Labs\AI-Lab\K-means-Clustering\images\beforeClustering.png")  
-
-
+  
 ### Visualization  
 - The resulting clusters were visualized using scatter plots with different colors representing different clusters.  
 
@@ -23,12 +20,8 @@ This report presents the results of applying the K-Means clustering algorithm to
 ### A. Clustering with k = 2  
 The dataset was partitioned into two clusters. The figure below shows the data points colored according to their assigned clusters.  
 
-![Clustering with k=2]("C:\Users\basak\OneDrive\KIIT-Labs\AI-Lab\K-means-Clustering\images\cluster2.png")  
-
 ### B. Clustering with k = 3  
 The dataset was partitioned into three clusters. The figure below shows the data points colored according to their assigned clusters.  
-
-![Clustering with k=3]("C:\Users\basak\OneDrive\KIIT-Labs\AI-Lab\K-means-Clustering\images\cluster3.png")  
 
 ---
 
